@@ -21,6 +21,29 @@ Due to certain access limitations and API restrictions, I was not able to fully 
 This approach allows the system to run fully offline and remain open-source friendly, while still demonstrating, realistic product interactions, personalized offer generation judged by sentiment score, sentiment-based responses, agent memory and workflow automation.
 **Future Plans - If API access becomes available in the future, the architecture can be extended easily to connect to real platforms.**
 
+## Prerequisites
+- Python 3.10.0 or above.
+- Langchain
+- Ollama LLM(Local LLMs, this model uses qwen3:1.7B) or API based paid or free (optional).
+- TextBlob for semantic analysis.
+- SQLite
+
+## Use Case
+
+User Review:  ```  This pair of headphone is damaged and packaged poorly I want a refund please.   ``` 
+<br>
+The agent will : <br>
+**1.** At very first check the customer history.
+**2.** Analyze sentiment → Negative / Positive / Neutral.
+**3.** Extract keywords → Quality, Delivery.
+**4.** Based on sentimental score it will generate offer.
+**5.** Save the interaction history.
+
+
+
+
+
+
 
 
 
