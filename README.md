@@ -6,6 +6,7 @@ A Multilingual E-commerce AI Assistant with Sentiment Analysis, Product Search, 
 
 ## Results
 <p align="center">
+  <img src="https://github.com/Abhigyan9831/Weixin-Demo-Ecommerce-AI-Agent/blob/main/assets/english.png?raw=true" width=50%>
   <img src="" width=50%>
 </p>
 
