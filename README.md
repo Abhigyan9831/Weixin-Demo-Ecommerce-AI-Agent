@@ -45,6 +45,17 @@ The agent will : <br>
 **4.** Based on sentimental score it will generate offer.
 **5.** Save the interaction history.
 
+## Getting Started
+
+**1. Create your own Virtual Environment** <br>
+  ``` -m venv your_ownname_env  ```<br>
+**2. Activate Environment** <br>
+  ``` .\your_ownname_env\Scripts\activate  ``` <br>
+**3. Install the necessary dependencies** <br>
+  ```  pip install -r requirements.txt  ``` <br>
+
+  
+
 
 
 
