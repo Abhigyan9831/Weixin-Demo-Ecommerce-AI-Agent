@@ -80,7 +80,10 @@ The agent will : <br>
     streamlit run .\final_run.py 
   ```
   
-  
+  ## Future Goals
+
+  - Add Multilingual more languages.
+  - Integrate Real Weixin / Alibabe / JD / Taobao API if accessible. 
   
 
 
