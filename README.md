@@ -71,7 +71,8 @@ The agent will : <br>
     pip install -r requirements.txt  
   ``` 
 **4. Setup up LLM Model**
-  ``` ollama run <the model you chose> 
+  ```
+    ollama run <the model you chose> 
   ```
    to see if it running.<br>
 **5. Running the agent** from this script ``` final_run.py ```
