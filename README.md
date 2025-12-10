@@ -50,10 +50,16 @@ The agent will : <br>
 **4.** Based on sentimental score it will generate offer.
 **5.** Save the interaction history.
 
+## Clone the Repo
+
+ ```bash
+    
+ ```
+
 ## Getting Started
 
 **1. Create your own Virtual Environment** <br>
-  ``` -m venv your_ownname_env  ```<br>
+  ```python -m venv your_ownname_env  ```<br>
 **2. Activate Environment** <br>
   ``` .\your_ownname_env\Scripts\activate  ``` <br>
 **3. Install the necessary dependencies** <br>
@@ -72,11 +78,6 @@ The agent will : <br>
 
 
 
-
-##  The UI 
-<p align="center">
-  <img src="https://github.com/Abhigyan9831/Weixin-Demo-Ecommerce-AI-Agent/blob/main/assets/main_page.png?raw=true" width=100%>
-</p>
 
 
 
