@@ -53,7 +53,7 @@ The agent will : <br>
 ## Clone the Repo
 
  ```bash
-    
+    git clone https://github.com/Abhigyan9831/Weixin-Demo-Ecommerce-AI-Agent.git
  ```
 
 ## Getting Started
