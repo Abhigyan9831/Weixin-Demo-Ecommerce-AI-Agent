@@ -83,7 +83,7 @@ The agent will : <br>
   ## Future Goals
 
   - Add Multilingual more languages.
-  - Integrate Real Weixin / Alibabe / JD / Taobao API if accessible. 
+  - Integrate Real Weixin / Alibaba / JD / Taobao API if accessible. 
   
 
 
