@@ -58,13 +58,28 @@ The agent will : <br>
 
 ## Getting Started
 
-**1. Create your own Virtual Environment** <br>
-  ```python -m venv your_ownname_env  ```<br>
-**2. Activate Environment** <br>
-  ``` .\your_ownname_env\Scripts\activate  ``` <br>
-**3. Install the necessary dependencies** <br>
-  ```  pip install -r requirements.txt  ``` <br>
-
+**1. Create your own Virtual Environment** 
+  ```
+    python -m venv your_ownname_env 
+  ```
+**2. Activate Environment** 
+  ``` 
+    .\your_ownname_env\Scripts\activate
+``` 
+**3. Install the necessary dependencies** 
+  ```
+    pip install -r requirements.txt  
+  ``` 
+**4. Setup up LLM Model**
+  ``` ollama run <the model you chose> 
+  ```
+   to see if it running.<br>
+**5. Running the agent** from this script ``` final_run.py ```
+  ```
+    streamlit run .\final_run.py 
+  ```
+  
+  
   
 
 
